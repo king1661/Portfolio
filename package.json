@@ -1,7 +1,7 @@
 {
-  "homepage": "https://king1661.github.io/The_amazing_portfolio",
+  "homepage": "https://king1661.github.io/the-amazing-portfolio",
   "name": "the-amazing-portfolio",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
